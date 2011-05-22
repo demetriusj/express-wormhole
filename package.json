@@ -1,0 +1,16 @@
+{
+  "name": "express-wormhole",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/demetriusj/express-wormhole.git"
+  },
+  "author": "Demetrius Johnson <contact@demetriusj.com> (http://demetriusj.com)",
+  "main": "index.js",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
